@@ -3,7 +3,7 @@
 - rgb values:Values for red, green, and blue are expressed as numbers between 0 and 255. 
 - hex Codes:Hex values represent values for red, green, and blue in hexadecimal code
 - Color names:Colors are represented by predefined names. However, they are very limited in number
-##background color 
+## background color 
 CSS treats each HTML element as if it appears in a box, and the background-color property sets the color of the background for that box.
 background-color: DarkCyan;
 ## understanding Color
